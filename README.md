@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Metrics](https://github.com/cspcsp07/YOUR_REPO/blob/main/metrics.svg)
+
 ![GitHub Contribution Graph](https://ghchart.rshah.org/cspcsp07)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cspcsp07&show_icons=true&theme=radical)

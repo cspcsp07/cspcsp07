@@ -1,7 +1,9 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cspcsp07&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=cspcsp07&border_radius=6)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cspcsp07)
+![GitHub Contribution Graph](https://ghchart.rshah.org/cspcsp07)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cspcsp07&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cspcsp07&theme=tokyonight)
 <!--
 **cspcsp07/cspcsp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

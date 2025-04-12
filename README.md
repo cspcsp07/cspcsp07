@@ -14,8 +14,8 @@
       <h3><a href="https://0x20.tistory.com/" target="_blank">This is my Tistory blog</a></h3>
     </td>
 
-    <!-- GitHub Stats 섹션 -->
-    <td align="center" width="50%">
+    <!-- GitHub Stats 섹션 -->  
+  <td align="center" width="50%">
       <h3>📊 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=cspcsp07&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>

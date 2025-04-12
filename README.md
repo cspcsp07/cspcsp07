@@ -22,3 +22,11 @@
 </table>
 
 ---
+<div align="center">
+  <h2>👋 About Me</h2>
+  <p>
+    안녕하세요! 저는 컴퓨터공학을 전공하고 있는 <strong>0x20</strong>입니다.<br>
+    현재 저는 오픈소스 소프트웨어인 Git과 Github를 공부하고 있습니다.<br>
+    블로그도 작성 중이니 많은 관심 부탁드립니다.<br>
+  </p>
+</div>

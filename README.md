@@ -1,5 +1,11 @@
 ## Hi there 👋
-## My blog: https://0x20.tistory.com/
+# 0x20's tistory blog
+
+![블로그 이미지](https://your-image-url.com/image.png)
+
+[블로그 바로가기](https://0x20.tistory.com/)
+
+![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-orange?style=flat-square&logo=tistory&logoColor=white)
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cspcsp07&show_icons=true&theme=radical" />
 </div>

@@ -1,11 +1,9 @@
 ## Hi there 👋
 # 0x20's tistory blog
-
-![블로그 이미지](https://your-image-url.com/image.png)
-
-[블로그 바로가기](https://0x20.tistory.com/)
-
-![Tistory Badge](https://img.shields.io/badge/Tistory-Blog-orange?style=flat-square&logo=tistory&logoColor=white)
+<a href="https://0x20.tistory.com/" target="_blank">
+  <img src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F7830900%2Fattach%2F82a999a403324dafb874ba34cc7af132" alt="블로그 이미지" width="300" height="200">
+</a>
+my status
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cspcsp07&show_icons=true&theme=radical" />
 </div>

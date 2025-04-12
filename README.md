@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm 
+## My blog: https://0x20.tistory.com/
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cspcsp07&show_icons=true&theme=radical" />
 </div>

@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>👋 Welcome to My GitHub Profile!</h1>
-  <p>Hello my name is 0x20</p>
+<div>
+  <h1>Welocme to my Github</h1>
 </div>
 
 ---

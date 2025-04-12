@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://0x20.tistory.com/" target="_blank">
+## <a href="https://0x20.tistory.com/" target="_blank">
   <img src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F7830900%2Fattach%2F82a999a403324dafb874ba34cc7af132" alt="블로그 이미지" width="100" height="100">
 </a>
 
